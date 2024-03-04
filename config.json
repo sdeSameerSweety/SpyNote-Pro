@@ -1,0 +1,5 @@
+Control Flow = False
+String Encryption = True
+Compatibility = True
+LicenseSystem = False
+DCWebhook = https://discord.com/api/webhooks/example/example
